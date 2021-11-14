@@ -1,2 +1,2 @@
 # ForUnityAIDLLib
-For Unity Android AIDL library
+For Unity use, an Android library with AIDL inteface.
